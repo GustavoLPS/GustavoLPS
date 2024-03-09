@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Social Media
 
-[![Linkedin](https://img.shields.io/badge/adilson-tavares-53827799?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-pinheiro-developer/)
+[![Linkedin](https://img.shields.io/badge/gustavo-pinheiro-developer?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-pinheiro-developer/)
 
 ## Technologies used in everyday life
 <div style="display: inline_block"><br/>
