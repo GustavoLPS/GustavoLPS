@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 <H2> Hi, I`m Gustavo Pinheiro 💻<H2>
 <p> 
-🎓 I´m a Software Engineer and I love being a developer; <br/>
-🔭 I'm focused on learning and developing a career as a full stack and IoT developer; <br/>
-🌱 I believe these technologies can facilitate daily operations. <br/>
+  🎓 I´m a Software Engineer and I love being a developer; <br/>
+  🔭 I'm focused on learning and developing a career as a full stack and IoT developer; <br/>
+  🌱 I believe these technologies can facilitate daily operations. <br/>
  </p>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoLPS&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
